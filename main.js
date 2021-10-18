@@ -17,7 +17,7 @@ async function main() {
     // console.log(`${now}: balance of ${balance.free} and a nonce of ${nonce}`);
 
     const classId = 1;
-    const className = "WalBeer";
+    const className = "SubstraBeer";
     await createBeers(api, alice, classId, className);
 
     // In this example we're calling the unsubscribe() function that is being
