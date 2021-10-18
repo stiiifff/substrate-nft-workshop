@@ -1,0 +1,24 @@
+{
+  "name": "substrate-nft-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stiiifff/substrate-nft-workshop.git"
+  },
+  "author": "Steve Degosserie <steve@parity.io>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/stiiifff/substrate-nft-workshop/issues"
+  },
+  "homepage": "https://github.com/stiiifff/substrate-nft-workshop#readme",
+  "dependencies": {
+    "@polkadot/api": "^6.3.1",
+    "beer-names": "^1.0.1"
+  }
+}
